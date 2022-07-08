@@ -1,4 +1,4 @@
-# *Project 3 Team 6: Clockwise your Investment* 
+# *Clockwise your Investment* 
 ---
 **Team members: 
 Ziwen Chen,
